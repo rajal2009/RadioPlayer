@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="semiBoldText" format="reference" />
+    <attr name="italicSemiBoldText" format="reference" />
+    <attr name="boldText" format="reference" />
+    <attr name="errorText" format="reference" />
+    <attr name="dividerLine" format="reference" />
+    <attr name="listDividerLine" format="reference" />
+    <attr name="textInputError" format="reference" />
+    <attr name="textNoDataStyle" format="reference" />
+</resources>

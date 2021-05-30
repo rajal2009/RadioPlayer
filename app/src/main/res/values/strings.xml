@@ -1,0 +1,17 @@
+<resources>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_recently_played">Recently Played</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="no_output_label">No output</string>
+    <string name="full_screen_label">Full screen</string>
+    <string name="new_activity_label">New activity</string>
+
+    <!--common strings-->
+    <string name="no_internet">Internet connection is not available</string>
+    <string name="generic_server_error">Sorry, Something went wrong. Please try again later.</string>
+
+    <!--Dialog-->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
